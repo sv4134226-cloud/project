@@ -1,0 +1,6 @@
+{
+  "name": "UrbanMart BI Studio",
+  "description": "AI-Powered Business Data Analysis Using UrbanMart Dataset — Interactive BI analytics, automated 1,200-row data validation audit, and Gemini executive analyst for Somya Verma's lab assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
